@@ -1,0 +1,35 @@
+# 🧑‍💼 Sistema de Cadastro de Funcionários
+
+Sistema de cadastro de funcionários desenvolvido em Python para praticar
+manipulação de arquivos JSON, funções, modularização e operações CRUD.
+
+## 📌 Funcionalidades
+
+- 🧑 Cadastrar funcionários
+- 📖 Listar funcionários
+- 🔎 Pesquisar funcionários
+- ✏️ Editar funcionários
+- 🗑️ Excluir funcionários
+- 💾 Armazenamento dos dados em JSON
+- 🎨 Interface no terminal utilizando Rich
+
+## 🛠️ Tecnologias
+
+- Python 3
+- JSON
+- Rich
+- Git/GitHub
+
+## 📂 Estrutura do projeto
+
+```text
+sistema-funcionarios/
+│
+├── cadastro.py
+├── funcionarios.py
+├── funcionario.json
+├── modularizacoes_util/
+│   ├── __init__.py
+│   └── ui.py
+│
+└── README.md   
